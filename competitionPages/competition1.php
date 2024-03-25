@@ -136,7 +136,6 @@ if ($result->num_rows > 0) {
     echo "0 results";
 }
 ?>
-        <p><span style="font-size: 20px;">Додаткову інформацю ви зможете знайти на <a href="https://italent.org.ua/nomination/2d-graphics">цьому сайті</a>.</span></p>
     </div>
     <div class="pop_up" id="pop_up">
     <div class="pop_up_container">
