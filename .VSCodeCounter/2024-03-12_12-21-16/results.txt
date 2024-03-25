@@ -1,0 +1,51 @@
+Date : 2024-03-12 12:21:16
+Directory : c:\OSPanel\domains\Konkurs
+Total : 19 files,  2471 codes, 33 comments, 154 blanks, all 2658 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| PHP        |         16 |      2,398 |         29 |        146 |      2,573 |
+| HTML       |          1 |         40 |          0 |          3 |         43 |
+| CSS        |          1 |         22 |          0 |          1 |         23 |
+| JavaScript |          1 |         11 |          4 |          4 |         19 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                         | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                            |         19 |      2,471 |         33 |        154 |      2,658 |
+| . (Files)                                                    |         10 |      1,696 |         27 |        121 |      1,844 |
+| assets                                                       |          1 |         22 |          0 |          1 |         23 |
+| competitionPages                                             |          4 |        595 |          2 |         21 |        618 |
+| public                                                       |          3 |        147 |          0 |          7 |        154 |
+| scripts                                                      |          1 |         11 |          4 |          4 |         19 |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                     | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\OSPanel\domains\Konkurs\about.php                         | PHP        |        164 |          0 |          8 |        172 |
+| c:\OSPanel\domains\Konkurs\addCompetition.php                | PHP        |        293 |          7 |         24 |        324 |
+| c:\OSPanel\domains\Konkurs\adminPageCompetitions.php         | PHP        |        159 |          8 |         16 |        183 |
+| c:\OSPanel\domains\Konkurs\adminPageWorks.php                | PHP        |        158 |          3 |         12 |        173 |
+| c:\OSPanel\domains\Konkurs\allCompetitions.php               | PHP        |        231 |          1 |         11 |        243 |
+| c:\OSPanel\domains\Konkurs\application.php                   | PHP        |        113 |          1 |         12 |        126 |
+| c:\OSPanel\domains\Konkurs\assets\style.css                  | CSS        |         22 |          0 |          1 |         23 |
+| c:\OSPanel\domains\Konkurs\competitionPages\competition1.php | PHP        |        190 |          0 |          8 |        198 |
+| c:\OSPanel\domains\Konkurs\competitionPages\competition2.php | PHP        |        189 |          1 |          6 |        196 |
+| c:\OSPanel\domains\Konkurs\competitionPages\competition3.php | PHP        |        188 |          1 |          7 |        196 |
+| c:\OSPanel\domains\Konkurs\competitionPages\competition4.php | PHP        |         28 |          0 |          0 |         28 |
+| c:\OSPanel\domains\Konkurs\database.php                      | PHP        |          9 |          0 |          1 |         10 |
+| c:\OSPanel\domains\Konkurs\index.php                         | PHP        |        352 |          1 |         22 |        375 |
+| c:\OSPanel\domains\Konkurs\public\logForm.php                | PHP        |         55 |          0 |          0 |         55 |
+| c:\OSPanel\domains\Konkurs\public\logout.php                 | PHP        |          4 |          0 |          1 |          5 |
+| c:\OSPanel\domains\Konkurs\public\regForm.php                | PHP        |         88 |          0 |          6 |         94 |
+| c:\OSPanel\domains\Konkurs\scripts\main.js                   | JavaScript |         11 |          4 |          4 |         19 |
+| c:\OSPanel\domains\Konkurs\test.html                         | HTML       |         40 |          0 |          3 |         43 |
+| c:\OSPanel\domains\Konkurs\updateCompetition.php             | PHP        |        177 |          6 |         12 |        195 |
+| Total                                                        |            |      2,471 |         33 |        154 |      2,658 |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
